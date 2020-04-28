@@ -6,3 +6,11 @@ my Blog
 Git
 ===
 [git常用命令](https://github.com/xv777/Blog/issues/1)
+
+JavaScript
+===
+[异步解决方案](https://github.com/xv777/Blog/issues/2)
+
+浏览器
+===
+[输入url到页面展示发生了什么](https://github.com/xv777/Blog/issues/3)
